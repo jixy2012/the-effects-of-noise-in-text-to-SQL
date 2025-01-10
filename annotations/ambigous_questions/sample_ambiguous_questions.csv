@@ -1,0 +1,5 @@
+question,Comment,Annotation
+"Name schools in Riverside which the average of average math score for SAT is grater than 400, what is the funding type of these schools?",Same as previous. Join between frpm and schools is wrong. This query will return the zip code of all the Fresno County schools that are FRPM schools. Not all schools,"1, 2, 3"
+Give the hero ID of superhero with the lowest attribute value.,Many superheros can have he lowest attribute value (invalid to ask for a single hero ID). Poorly stated question,"2,6"
+How many female patients born in 1964 were admitted to the hospital? List them by ID.,"Ambiguous question. Asks ""how many"", then says to list patients by ID",2
+How many elements are there for single bond molecules?,,2

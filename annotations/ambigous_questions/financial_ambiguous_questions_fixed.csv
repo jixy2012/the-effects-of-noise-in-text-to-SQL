@@ -1,0 +1,20 @@
+Suggested fixed question
+"List out the account numbers of female clients who are oldest and have lowest average salary, also calculate and list the gap between this lowest average salary with the highest average salary?"
+List out the accounts IDs of the accounts who have the earliest trading date in 1995 ?
+"For the female client who was born in 1976/1/29, what is the name of the district where she opened her account?"
+What is the account ID of the first account opened in Prague?
+"In 1996, what were the district ids of the districts that had the highest unemployment rate? List their branch location and district name."
+"What are the district ids of the districts that had a transaction greater greater than USS$10,000 in 1997?"
+List the transaction ID for all withdrawals in cash transactions that the client with the id 3356 makes.
+What is the name of the region which the client with the id 3541 is from?
+What is the district id of the district that has the most accounts with loan contracts finished with no problems?
+What is the client ID of the client that placed the order with the ID 32423?
+Please list all the transaction IDs made by accounts from district 5.
+"How many credit card withdrawals were recorded starting from January 1, 1996?"
+How often does account number 3 request an account statement to be released? What was the purpose of debiting 3539 in total?
+"What is the balance of client number 4's account following transaction 851? Who owns this account, a man or a woman?"
+What is the total amount of all the transactions that client number 617 did in 1998?
+Please list the client IDs of clients who were born between 1983 and 1987 and whose account branch is in east Bohemia.
+How many male clients who were born between 1974 and 1976 have made a payment on their home in excess of $4000?
+"Among the accounts with a loan validity period exceeding 24 months, which account id has the lowest approved amount and was opened before 1997?"
+"List all district ids , district names and client ids for the clients that can only have the right to issue permanent orders or apply for loans"
